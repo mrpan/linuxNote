@@ -5,3 +5,7 @@
 ```shell
  du -h --max-depth=1
 ```
+
+显示日期的指令： date
+显示日历的指令： cal
+简单好用的计算器： bc
