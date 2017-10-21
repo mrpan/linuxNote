@@ -49,4 +49,6 @@ find    实际搜寻硬盘去查询文件名
 ```shell
 panxiaomingdeMacBook-Pro:~ cp$ which psql
 /usr/local/bin/psql
+
+find /etc -name httpd.conf 
 ```
